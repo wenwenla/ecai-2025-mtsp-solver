@@ -1,3 +1,16 @@
+orz...
+
+@misc{wang2025solvingminmaxmultipletraveling,
+      title={Solving the Min-Max Multiple Traveling Salesmen Problem via Learning-Based Path Generation and Optimal Splitting}, 
+      author={Wen Wang and Xiangchen Wu and Liang Wang and Hao Hu and Xianping Tao and Linghao Zhang},
+      year={2025},
+      eprint={2508.17087},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2508.17087}, 
+}
+
+
 1. compile the splitting algorithm
 
 ```bash
