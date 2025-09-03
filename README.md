@@ -10,7 +10,7 @@ pls, orz...
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2508.17087}, 
 }
-``
+```
 
 
 1. compile the splitting algorithm
